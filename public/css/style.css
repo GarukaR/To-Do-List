@@ -1,0 +1,12 @@
+ody {
+  background-color: #0077aa;
+  text-align: center;
+}
+
+.ToDoList{
+  justify-content: center;
+  top: 50%;
+  left: 50%;
+  display: flex;
+  text-align: left;
+}
